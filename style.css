@@ -84,7 +84,7 @@ a:hover{
 
 
 #home{
-	background-image:url(../images/パエリア　ランチ.jpg),linear-gradient(#ffe0b6,#ddd);
+	background-image:url(パエリア　ランチ.jpg),linear-gradient(#ffe0b6,#ddd);
 	background-blend-mode: soft-light;
 	min-height: 100vh;
 
@@ -106,7 +106,7 @@ a:hover{
 	
 
 #news{
-	background-image: url(../images/濃厚明太クリーム.jpg),linear-gradient(#ffe0b6,#ddd);
+	background-image: url(濃厚明太クリーム.jpg),linear-gradient(#ffe0b6,#ddd);
     background-blend-mode: soft-light;
 	
 	height: 270px;
@@ -217,7 +217,7 @@ aside p{
 
 
 #menu{
-	background-image: url(../images/アクアパッツア4.jpg),linear-gradient(#ffe0b6,#ddd);
+	background-image: url(アクアパッツア4.jpg),linear-gradient(#ffe0b6,#ddd);
 	background-blend-mode: soft-light;
 	min-height: 100vh;
 	color: #432;
